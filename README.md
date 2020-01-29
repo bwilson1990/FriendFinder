@@ -1,14 +1,12 @@
-# Friend Finder
+# Friend Finder App
 
+## Overview
 A website that uses
 
 * front end (HTML with Bootstrap and jQuery) and 
 * back end (Javascript, Node.js, Express) code 
 
 to take in the results fom a user inputted survey and compares the user's selection with a database of best possible "friends" to match with.
-
-## The deployed app can be found here: 
-https://calm-badlands-91918.herokuapp.com/
 
 ---
 
@@ -45,6 +43,11 @@ https://calm-badlands-91918.herokuapp.com/
   * apiRoutes.js
   * htmlRoutes.js
   
+---
+
+## Deployed Link: 
+[Friend Finder](https://calm-badlands-91918.herokuapp.com/)
+
 ---
 
 ## Screenshot
