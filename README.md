@@ -49,5 +49,5 @@ https://calm-badlands-91918.herokuapp.com/
 
 ## Screenshot
 
-![homepage](assets/09-friend-finder.png)
+![homepage](app/09-friend-finder.png)
 
