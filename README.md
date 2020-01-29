@@ -5,8 +5,7 @@ A website that uses
 * front end (HTML with Bootstrap and jQuery) and 
 * back end (Javascript, Node.js, Express) code 
 
-to take in results fom a survey and compares the user input with a database of possible "friends" to match with.
-The user answers questions in a survey and based on their answers they are matched to their closest match in the database.
+to take in the results fom a user inputted survey and compares the user's selection with a database of best possible "friends" to match with.
 
 ## The deployed app can be found here: 
 https://calm-badlands-91918.herokuapp.com/
