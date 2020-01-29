@@ -44,3 +44,10 @@ https://calm-badlands-91918.herokuapp.com/
 * routing
   * apiRoutes.js
   * htmlRoutes.js
+  
+---
+
+## Screenshot
+
+![homepage](assets/09-friend-finder.png)
+
